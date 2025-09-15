@@ -16,7 +16,7 @@ function sum(a, b) {
 
 // write good code here
 
-// function to get sum of two numbers
+// Returns the sum of two numbers
 function sum(a, b) {
   return a + b;
 }
